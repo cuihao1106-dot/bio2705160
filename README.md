@@ -4,3 +4,4 @@
 ### 2. For each sample, we have 4 of their reference sequences in 'ref_seq.zip' e.g. sampleA has 'A1.fasta', 'A2.fasta', 'A3.fasta', A4.fasta'. After decompression, place all '.fasta' sequences in the same directory.
 ### 3. Run 'translate.py' to translate all sequences to amino acid sequences. 
 ## Then we can go to next step. Do MSA on EBI web using the amino acid sequences.
+# AI was used in coding 'translate.py' for providing ideas.
